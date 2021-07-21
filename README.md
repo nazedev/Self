@@ -7,7 +7,7 @@
 >
 >
 </div>
-  <a href="https://github.com/Naze-dev"><img title="Author" src="https://img.shields.io/badge/Author-Naze-dev-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Naze-dev"><img title="Author" /></a>
   <h4 align="center">
   <a href="https://wa.me/6285875158363">Nomer Owner Di Sv Ya >//< </a>
 </h4>

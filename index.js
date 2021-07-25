@@ -56,9 +56,9 @@ const TobzKey = 'BotWeA'
 
 banChats = true
 offline = false
-targetpc = '6285875158363'
-owner = '6285875158363'
-fake = 'NAZE'
+targetpc = '6282126073060'
+owner = '6282126073060'
+fake = 'MONZ'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
